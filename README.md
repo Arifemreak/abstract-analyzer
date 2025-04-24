@@ -34,7 +34,6 @@ Try it now:
 | `README.md` | Project description  
 
 ---
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Arifemreak/abstract-analyzer/blob/main/abstract_analyzer.ipynb)
 
 
 ## 📊 Screenshot
